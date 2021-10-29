@@ -1,0 +1,44 @@
+﻿body {
+    background-color: azure;
+    font-family: Tahoma;
+    font-size: medium;
+}
+
+.botao-excluir {
+    font-family: Constantia;
+    color: white;
+    font-size: small;
+    font-weight: bold;
+    background-color: darkred;
+}
+
+.botao-limpar {
+    font-family: Constantia;
+    color: black;
+    font-size: small;
+    font-weight: bold;
+    background-color: lightgray;
+}
+
+.botao-gravar {
+    font-family: Constantia;
+    color: white;
+    font-size: small;
+    font-weight: bold;
+    background-color: forestgreen;
+}
+
+.botao-carregar {
+    font-family: Constantia;
+    color: black;
+    font-size: small;
+    font-weight: bold;
+    background-color: lightgray;
+}
+
+.label-title {
+    font-family: Georgia;
+    font-size: larger;
+    font-weight: 800;
+    color: darkred;
+}
